@@ -1,0 +1,2 @@
+# quoteADay
+tells a quote
